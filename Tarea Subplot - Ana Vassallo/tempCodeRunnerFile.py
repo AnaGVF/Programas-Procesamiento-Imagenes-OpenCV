@@ -1,0 +1,11 @@
+x = np.arange(0, 20, 0.01)
+y = np.sin(x) + np.cos(x)
+
+fig = plt.figure(1)
+plt.clf()
+ax = fig.add_subplot(1, 1, 1)
+ax.plot(x, y)
+ax.set_xlabel('Eje x')
+ax.set_ylabel('Eje y')
+ax.set_title('f(x)=sen(x)+cos(x)')
+ax.grid(True)
