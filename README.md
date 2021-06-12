@@ -4,8 +4,8 @@ Programas realizados en la Materia de Procesamiento Digital de Imágenes con Pyt
 # Librerías
 Para ejecutar los programas, se necesita tener Python instalado (en su momento fue utilizado Python 3.9.5) y las siguientes librerías:
 
-pip install numpy
-pip install opencv-python
-pip install opencv-contrib-python
-pip install opencv-python-headless
-pip install opencv-contrib-python-headless
+1. pip install numpy
+2. pip install opencv-python
+3. pip install opencv-contrib-python
+4. pip install opencv-python-headless
+5. pip install opencv-contrib-python-headless
